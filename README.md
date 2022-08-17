@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif)](https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif) -->
+//<!-- [![MasterHead](https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif)](https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif) -->//
 <img  width="100%" height="300" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif" />
 <h1 align="center">Hi 👋, I'm Tushar Ahire</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
